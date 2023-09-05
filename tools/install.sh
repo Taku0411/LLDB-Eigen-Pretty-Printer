@@ -80,7 +80,7 @@ if [ -d "$INSTALL_PATH" ]; then
 fi
 
 notice "Downloading files"
-git clone -q https://github.com/fantaosha/LLDB-Eigen-Pretty-Printer.git $INSTALL_PATH
+git clone -q https://github.com/Taku0411/LLDB-Eigen-Pretty-Printer.git $INSTALL_PATH
 
 #
 # Add to lldbinit
